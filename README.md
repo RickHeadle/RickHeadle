@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RickHeadle. My real name is Alexey Efimov.
 - :white_flag: I'm currently located in Russian Federation, Yekaterinburg.
 - 👀 I’m interested in remote work and relocation offers.
-- 🌱 I’m currently learning Java Advanced course and Spring Framework.
+- 🌱 I’m currently learning Java and Spring Framework.
 - 💞️ I’m looking to collaborate on small developer meetings.
 - 📫 You can reach me by email - Rick_Headle@rambler.ru
 
